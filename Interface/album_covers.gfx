@@ -1,9 +1,0 @@
-	spriteTypes = {
-	
-		#Tokyo_FM	
-		spriteType = {
-			name = "GFX_GTTF"
-			texturefile = "gfx/album_covers/Go_to_the_future.dds"
-			legacy_lazy_load = no
-		}
-	}
