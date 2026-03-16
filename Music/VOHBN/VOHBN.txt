@@ -1,0 +1,36 @@
+
+music_station = "VOHBN"
+
+music = {
+	song = "When_that_day_comes"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "The_national_anthem_of_ROC"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Sing_of_the_Motherland"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The_motherland_will_never_forget"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}

@@ -1,0 +1,94 @@
+
+#TokyoFM
+music = {
+	name = "Crescent_moon_sunset"
+	file = "Crescent_moon_sunset.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Shiranami_top_water"
+	file = "Shiranami_top_water.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Word"
+	file = "Word.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Light_Dance"
+	file = "Light_Dance.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Walk_Around"
+	file = "Walk_Around.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Omotesando_26_o_Clock"
+	file = "Omotesando_26_o_Clock.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Klee"
+	file = "Klee.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Identity"
+	file = "Identity.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Monokuro_Tokyo"
+	file = "Monokuro_Tokyo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Because_I_listened_to_Bachs_melody_at_night"
+	file = "Because_I_listened_to_Bachs_melody_at_night.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Boku_to_hana"
+	file = "Boku_to_hana.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Yoi_no_odoriko"
+	file = "Yoi_no_odoriko.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Merry_Christmas_Mr_Lawrence"
+	file = "Merry_Christmas_Mr_Lawrence.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Blu"
+	file = "Blu.ogg"
+	volume = 0.65
+}
+music = {
+	name = "opus"
+	file = "opus.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Recalling_the_Past"
+	file = "Recalling_the_Past.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The_Wind_Corridor"
+	file = "The_Wind_Corridor.ogg"
+	volume = 0.65
+}
+
+
+
+
+
+

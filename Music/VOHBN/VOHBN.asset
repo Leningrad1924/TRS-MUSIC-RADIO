@@ -1,0 +1,23 @@
+
+#VOHBN
+
+music = {
+	name = "When_that_day_comes"
+	file = "When_that_day_comes.ogg"
+	volume = 1
+}
+music = {
+	name = "The_national_anthem_of_ROC"
+	file = "The_national_anthem_of_ROC.ogg"
+	volume = 1
+}
+music = {
+	name = "Sing_of_the_Motherland"
+	file = "Sing_of_the_Motherland.ogg"
+	volume = 1
+}
+music = {
+	name = "The_motherland_will_never_forget"
+	file = "The_motherland_will_never_forget.ogg"
+	volume = 1
+}
