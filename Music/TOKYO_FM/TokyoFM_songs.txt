@@ -97,6 +97,7 @@ music = {
 		}		
 	}
 }
+
 music = {
 	song = "Yoi_no_odoriko"
 	chance = {
@@ -105,6 +106,7 @@ music = {
 		}		
 	}
 }
+
 music = {
 	song = "Adventure"
 	chance = {
@@ -113,6 +115,43 @@ music = {
 		}		
 	}
 }
+
+music = {
+	song = "What_catches_the_eye_is_indigo_blue"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Slow_motion"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "The_Street_of_Masks"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Treamline"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
 music = {
 	song = "Merry_Christmas_Mr_Lawrence"
 	chance = {
@@ -182,15 +221,6 @@ music = {
 }
 
 music = {
-	song = "The_Real_Folk_Blues_HDN"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
-music = {
 	song = "Waiting_for_the sunset"
 	chance = {
 		modifier = {
@@ -226,4 +256,21 @@ music = {
 	}
 }
 
+music = {
+	song = "Come_on_spring"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "TSUNAMI"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
 

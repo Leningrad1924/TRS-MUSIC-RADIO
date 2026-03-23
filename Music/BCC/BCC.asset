@@ -222,11 +222,7 @@ music = {
 	file = "Rock_Music_on_the_New_Long_March_Road.ogg"
 	volume = 1
 }
-music = {
-	name = "Wander_through_life"
-	file = "Wander_through_life.ogg"
-	volume = 1
-}
+
 music = {
 	name = "I_only_care_about_you"
 	file = "I_only_care_about_you.ogg"

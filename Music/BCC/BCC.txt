@@ -355,14 +355,7 @@ music = {
 		}		
 	}
 }
-music = {
-	song = "Wander_through_life"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
+
 music = {
 	song = "I_only_care_about_you"
 	chance = {

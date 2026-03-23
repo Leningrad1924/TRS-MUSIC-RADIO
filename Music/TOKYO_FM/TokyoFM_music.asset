@@ -61,6 +61,31 @@ music = {
 	file = "Yoi_no_odoriko.ogg"
 	volume = 0.65
 }
+
+music = {
+	name = "What_catches_the_eye_is_indigo_blue"
+	file = "What_catches_the_eye_is_indigo_blue.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Slow_motion"
+	file = "Slow_motion.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "The_Street_of_Masks"
+	file = "The_Street_of_Masks.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Treamline"
+	file = "Treamline.ogg"
+	volume = 0.65
+}
+
 music = {
 	name = "Merry_Christmas_Mr_Lawrence"
 	file = "Merry_Christmas_Mr_Lawrence.ogg"
@@ -105,33 +130,39 @@ music = {
 	volume = 0.65
 }
 
-
-music = {
-	name = "The_Real_Folk_Blues_HDN"
-	file = "The_Real_Folk_Blues_HDN.ogg"
-	volume = 0.65
-}
-
 music = {
 	name = "Waiting_for_the sunset"
 	file = "Waiting_for_the sunset.ogg"
 	volume = 0.65
 }
 
-
 music = {
 	name = "The_Wind_Corridor"
 	file = "The_Wind_Corridor.ogg"
 	volume = 0.65
 }
+
 music = {
 	name = "Recalling_the_Past"
 	file = "Recalling_the_Past.ogg"
 	volume = 0.65
 }
+
 music = {
 	name = "BEGINNINGS"
 	file = "BEGINNINGS.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Come_on_spring"
+	file = "Come_on_spring.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "TSUNAMI"
+	file = "TSUNAMI.ogg"
 	volume = 0.65
 }
 
