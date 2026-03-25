@@ -22,7 +22,7 @@
  opus:0"opus - 坂本龙一(opus - Sakamoto Ryūichi)"
  Tong_Poo:0"东风 - 矢野显子(Tong Poo - Yano Akiko)"
  Red_soldiers_poem:0"赤军士兵之歌 - 頭脳警察(Sekigun Heishi no Uta - Zunō Keisatsu)"
- She_was_a_revolutionary:0"她是革命家 - 頭脳警察(Kanojo wa Kakumeika - Zunō Keisatsu)"
+ She_was_a_revolutionary:0"她是革命家 - 頭脳警察(Kanojo wa Kakumeika - Zunō Keisatsu)" 
  Flow_of_wealth:0"万物流转 - 頭脳警察(Banbutsu Ruten - Zunō Keisatsu)"
  The_crowned_monarch_without_a_crown:0"无冠的帝王 - 頭脳警察(Mukan no Teiō - Zunō Keisatsu)"
  Waiting_for_the sunset:0"等待夕阳 - 因幡晃(Yūbae o Machinagara - Inaba Akira)"
@@ -59,6 +59,8 @@
  Zhi_Hu_Zhe_Ye:0"之乎者也 - 罗大佑(Zhi Hu Zhe Ye - Luo Dayou)"
  Small_Town_Lu_Gang:0"鹿港小镇 - 罗大佑(Small Town Lu Gang - Luo Dayou)"
  Rhythm_of_Youth_2000:0"青春舞曲2000 - 罗大佑(Rhythm of Youth 2000 - Luo Dayou)"
+ The_72_Variants_of_Phenomena:0"现象七十二变 - 罗大佑(The 72 Variants of Phenomena - Luo Dayou)"
+ Taiwan_March:0"台湾进行曲 - 罗大佑(Taiwan March - Luo Dayou)"
  Han_people:0"汉人 - 惘闻(The Han People - Wang Wen)"
  The_Blue_Lotus:0"蓝莲花 - 许巍(The Blue Lotus - Xu Wei)"
  Flourishing_Life:0"怒放的生命 - 汪峰(Flourishing Life - Wang Feng)"
@@ -69,7 +71,13 @@
  Bun_gan_ba_loeng:0"半斤八两 - Beyond(Bun Gan Ba Loeng - Beyond)"
  Cold_Rainy_Night:0"冷雨夜 - Beyond(Cold Rainy Night - Beyond)"
  The_Golden_Years:0"光辉岁月 - Beyond(The Golden Years - Beyond)"
+ No_More_Hesitation:0"不再犹豫 - Beyond(No More Hesitation - Beyond)"
  Amani:0"Amani - Beyond(Amani - Beyond)"
+ Great_Wall:0"长城 - Beyond(Great Wall - Beyond)"
+ Those_Days_Gone:0"逝去日子 - Beyond(Those Days Gone - Beyond)"
+ Time_is_Silent:0"岁月无声 - Beyond(Time is Silent - Beyond)"
+ Peasant:0"农民 - Beyond(Peasant - Beyond)"
+ Earth:0"大地 - Beyond(Earth - Beyond)"
  I_believe:0"我相信 - 杨培安(I Believe - Yang Peian)"
  Gadamerine_Symphony_Poem:0"嘎达梅林交响诗 - 蒙古民族艺术剧院交响乐团(Gadamerine Symphony Poem - Mongolian National Art Theatre Symphony Orchestra)"
  Songs_and_smiles:0"歌声与微笑 - 国家交响乐团(Songs And Smiles - National Symphony Orchestra)"
@@ -93,6 +101,14 @@
  The_best_buddy:0"最佳损友 - 陈奕迅(The Best Buddy - Chen Yixun)"
  Sunflower:0"油菜花 - 成龙(Sunflower - Jackie Chan)"
  Sailor:0"水手 - 郑智化(Sailor - Zheng Zhihua)"
+ Twinkling_Stars:0"星星点灯 - 郑智化(Twinkling Stars - Zheng Zhihua)"
+ Game_world:0"游戏人间 - 郑智化(Game world - Zheng Zhihua)"
+ Red_sun:0"红日 - 李克勤(Red sun - Hacken Lee)"
+ Ai_Piah_Cia_Eh_Yia:0"爱拼才会赢 - 	陈百潭(Ai Piah Cia Eh Yia - Chen Baitan)"
+ Dance_of_youth:0"青春舞曲 - 王洛宾(Dance of youth - Wang Luobin)"
+ The_opinion_of_another_worker:0"另一个工人的观点 - 黄金刚"(The opinion of another worker - Huang Jigang)
+ Work_Song:0"下班歌 - 左翼联盟(Work Song - The Left Party)"
+
  The_Sun_Also_Rises:0"太阳照常升起 - 久石让(The Sun Also Rises - Yoshiyuki Miyazaki)"
 
  VOHBN_TITLE:0"汉声广播电台"
@@ -100,6 +116,10 @@
  The_national_anthem_of_ROC:0"中华民国国歌 - 中华民国国军合唱团(The National Anthem Of R.O.C - The Chorus of the R.O.C Military Forces)"
  Sing_of_the_Motherland:0"歌唱祖国 - 国家交响乐团(Sing Of The Motherland - National Symphony Orchestra)"
  The_motherland_will_never_forget:0"祖国不会忘记 - 黄鹭(The Motherland Will Never Forget - Huang Lu)"
+ Graduation_Song:0"毕业歌 - 上海乐团合唱团(Graduation Song - Shanghai Orchestra Chorus)"
+ Country:0"国家 - 刘家昌(Country - Liu Jiacang)"
+ Ode_to_the_Republic_of_China:0"中华民国颂 - 刘家昌(Ode to the Republic of China - Liu Jiacang)"
+ No_One_Shall_Violate_Her:0"谁都不能欺侮它 - 刘文正(No One Shall Violate Her - Liu Wen-cheng)"
 
 
 

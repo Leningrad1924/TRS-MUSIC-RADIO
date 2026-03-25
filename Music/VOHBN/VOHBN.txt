@@ -34,3 +34,35 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "Graduation_Song"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Country"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Ode_to_the_Republic_of_China"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "No_One_Shall_Violate_Her"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}

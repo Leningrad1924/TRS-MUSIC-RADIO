@@ -77,6 +77,16 @@ music = {
 	volume = 1
 }
 music = {
+	name = "The_72_Variants_of_Phenomena"
+	file = "The_72_Variants_of_Phenomena.ogg"
+	volume = 1
+}
+music = {
+	name = "Taiwan_March"
+	file = "Taiwan_March.ogg"
+	volume = 1
+}
+music = {
 	name = "Han_people"
 	file = "Han_people.ogg"
 	volume = 1
@@ -106,9 +116,40 @@ music = {
 	file = "Vast_and_boundless_sky.ogg"
 	volume = 1
 }
+
+music = {
+	name = "No_More_Hesitation"
+	file = "No_More_Hesitation.ogg"
+	volume = 1
+}
+music = {
+	name = "Time_is_Silent"
+	file = "Time_is_Silent.ogg"
+	volume = 1
+}
+music = {
+	name = "Great_Wall"
+	file = "Great_Wall.ogg"
+	volume = 1
+}
+music = {
+	name = "Those_Days_Gone"
+	file = "Those_Days_Gone.ogg"
+	volume = 1
+}
 music = {
 	name = "Gray_trajectory"
 	file = "Gray_trajectory.ogg"
+	volume = 1
+}
+music = {
+	name = "Peasant"
+	file = "Peasant.ogg"
+	volume = 1
+}
+music = {
+	name = "Earth"
+	file = "Earth.ogg"
 	volume = 1
 }
 music = {
@@ -246,5 +287,35 @@ music = {
 music = {
 	name = "Sailor"
 	file = "Sailor.ogg"
+	volume = 1
+}
+music = {
+	name = "Red_sun"
+	file = "Red_sun.ogg"
+	volume = 1
+}
+music = {
+	name = "Twinkling_Stars"
+	file = "Twinkling_Stars.ogg"
+	volume = 1
+}
+music = {
+	name = "Ai_Piah_Cia_Eh_Yia"
+	file = "Ai_Piah_Cia_Eh_Yia.ogg"
+	volume = 1
+}
+music = {
+	name = "Dance_of_youth"
+	file = "Dance_of_youth.ogg"
+	volume = 1
+}
+music = {
+	name = "The_opinion_of_another_worker"
+	file = "The_opinion_of_another_worker.ogg"
+	volume = 1
+}
+music = {
+	name = "Work_Song"
+	file = "Work_Song.ogg"
 	volume = 1
 }

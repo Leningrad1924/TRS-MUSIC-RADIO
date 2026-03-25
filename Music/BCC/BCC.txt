@@ -123,6 +123,24 @@ music = {
 	}
 }
 music = {
+	song = "The_72_Variants_of_Phenomena"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Taiwan_March"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+
+music = {
 	song = "Han_people"
 	chance = {
 		modifier = {
@@ -170,8 +188,42 @@ music = {
 		}		
 	}
 }
+
+##BEYOND##
+music = {
+	song = "No_More_Hesitation"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Those_Days_Gone"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Time_is_Silent"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
 music = {
 	song = "Gray_trajectory"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Great_Wall"
 	chance = {
 		modifier = {
 			factor = 1
@@ -210,6 +262,24 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "Peasant"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Earth"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+########
 music = {
 	song = "I_believe"
 	chance = {
@@ -391,6 +461,46 @@ music = {
 }
 music = {
 	song = "Sailor"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Red_sun"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Ai_Piah_Cia_Eh_Yia"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Dance_of_youth"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The_opinion_of_another_worker"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Work_Song"
 	chance = {
 		modifier = {
 			factor = 1
