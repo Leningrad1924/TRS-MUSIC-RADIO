@@ -41,11 +41,7 @@ music = {
 	file = "Seaside_Flowers.ogg"
 	volume = 1
 }
-music = {
-	name = "The_Long_March"
-	file = "The_Long_March.ogg"
-	volume = 1
-}
+
 music = {
 	name = "Pearl_of_the_Orient"
 	file = "Pearl_of_the_Orient.ogg"
@@ -79,11 +75,6 @@ music = {
 music = {
 	name = "The_72_Variants_of_Phenomena"
 	file = "The_72_Variants_of_Phenomena.ogg"
-	volume = 1
-}
-music = {
-	name = "Taiwan_March"
-	file = "Taiwan_March.ogg"
 	volume = 1
 }
 music = {
@@ -163,11 +154,6 @@ music = {
 	volume = 1
 }
 music = {
-	name = "The_Golden_Years"
-	file = "The_Golden_Years.ogg"
-	volume = 1
-}
-music = {
 	name = "Amani"
 	file = "Amani.ogg"
 	volume = 1
@@ -175,11 +161,6 @@ music = {
 music = {
 	name = "I_believe"
 	file = "I_believe.ogg"
-	volume = 1
-}
-music = {
-	name = "Gadamerine_Symphony_Poem"
-	file = "Gadamerine_Symphony_Poem.ogg"
 	volume = 1
 }
 music = {
@@ -197,22 +178,6 @@ music = {
 	file = "Songs_and_smiles.ogg"
 	volume = 1
 }
-music = {
-	name = "Spring_Festival_Overture"
-	file = "Spring_Festival_Overture.ogg"
-	volume = 1
-}
-music = {
-	name = "Liang_Zhu"
-	file = "Liang_Zhu.ogg"
-	volume = 1.5
-}
-music = {
-	name = "First_Xinjiang_Dance_Music"
-	file = "First_Xinjiang_Dance_Music.ogg"
-	volume = 1
-}
-
 music = {
 	name = "Internationale_CHI"
 	file = "Internationale_CHI.ogg"
@@ -234,31 +199,6 @@ music = {
 	volume = 1
 }
 music = {
-	name = "Descendants_of_the_Dragon"
-	file = "Descendants_of_the_Dragon.ogg"
-	volume = 1
-}
-music = {
-	name = "West_of_Yangguan"
-	file = "West_of_Yangguan.ogg"
-	volume = 1
-}
-music = {
-	name = "The_first_snowfall_of_2002"
-	file = "The_first_snowfall_of_2002.ogg"
-	volume = 1
-}
-music = {
-	name = "Find_yourself"
-	file = "Find_yourself.ogg"
-	volume = 1
-}
-music = {
-	name = "Oh_Be_good"
-	file = "Oh_Be_good.ogg"
-	volume = 1
-}
-music = {
 	name = "Rock_Music_on_the_New_Long_March_Road"
 	file = "Rock_Music_on_the_New_Long_March_Road.ogg"
 	volume = 1
@@ -277,11 +217,6 @@ music = {
 music = {
 	name = "The_best_buddy"
 	file = "The_best_buddy.ogg"
-	volume = 1
-}
-music = {
-	name = "Sunflower"
-	file = "Sunflower.ogg"
 	volume = 1
 }
 music = {
