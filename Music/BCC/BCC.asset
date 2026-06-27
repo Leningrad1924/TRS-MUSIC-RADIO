@@ -43,11 +43,6 @@ music = {
 }
 
 music = {
-	name = "Pearl_of_the_Orient"
-	file = "Pearl_of_the_Orient.ogg"
-	volume = 1
-}
-music = {
 	name = "Your_appearance"
 	file = "Your_appearance.ogg"
 	volume = 1
@@ -250,7 +245,7 @@ music = {
 	volume = 1
 }
 music = {
-	name = "Work_Song"
-	file = "Work_Song.ogg"
+	name = "Friend"
+	file = "Friend.ogg"
 	volume = 1
 }

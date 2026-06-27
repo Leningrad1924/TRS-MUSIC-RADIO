@@ -90,8 +90,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "CPHK_album_art"
-		texturefile = "gfx//interface//topbar//musicplayer//CPHK.dds"
+		name = "Jiyu_Nihon_Hoso_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//Jiyu_Nihon_Hoso.dds"
 		noOfFrames = 2
 	}
 }

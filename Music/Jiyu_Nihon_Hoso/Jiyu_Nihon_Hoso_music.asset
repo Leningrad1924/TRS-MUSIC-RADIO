@@ -1,5 +1,62 @@
 
-#TokyoFM
+#Jiyu_Nihon_Hoso
+music = {
+	name = "Internationale_PRJ"
+	file = "Internationale_PRJ.ogg"
+	volume = 1
+}
+music = {
+	name = "Listen_workers_of_the_World"
+	file = "Listen_workers_of_the_World.ogg"
+	volume = 1
+}
+music = {
+	name = "The_Red_Flag"
+	file = "The_Red_Flag.ogg"
+	volume = 1
+}
+music = {
+	name = "Come_on"
+	file = "Come_on.ogg"
+	volume = 1.25
+}
+music = {
+	name = "The_Red_Army_is_the_most_powerful_PRJ"
+	file = "The_Red_Army_is_the_most_powerful_PRJ.ogg"
+	volume = 1
+}
+music = {
+	name = "Grasslands_grasslands_PRJ"
+	file = "Grasslands_grasslands_PRJ.ogg"
+	volume = 1
+}
+music = {
+	name = "Whirlwinds_of_Danger_PRJ"
+	file = "Whirlwinds_of_Danger_PRJ.ogg"
+	volume = 1
+}
+music = {
+	name = "Po_dolinam_i_po_vzgoriam_PRJ"
+	file = "Po_dolinam_i_po_vzgoriam_PRJ.ogg"
+	volume = 1
+}
+music = {
+	name = "Socialism_is_great"
+	file = "Socialism_is_great.ogg"
+	volume = 1
+}
+music = {
+	name = "The_military_song_of_the_JPA"
+	file = "The_military_song_of_the_JPA.ogg"
+	volume = 1
+}
+music = {
+	name = "The_peoples_army_is_loyal_to_the_Party"
+	file = "The_peoples_army_is_loyal_to_the_Party.ogg"
+	volume = 1
+}
+
+
 music = {
 	name = "Crescent_moon_sunset"
 	file = "Crescent_moon_sunset.ogg"
@@ -137,38 +194,13 @@ music = {
 }
 
 music = {
-	name = "The_Wind_Corridor"
-	file = "The_Wind_Corridor.ogg"
-	volume = 0.65
-}
-
-music = {
 	name = "Recalling_the_Past"
 	file = "Recalling_the_Past.ogg"
 	volume = 0.65
 }
 
 music = {
-	name = "BEGINNINGS"
-	file = "BEGINNINGS.ogg"
+	name = "The_Wind_Corridor"
+	file = "The_Wind_Corridor.ogg"
 	volume = 0.65
 }
-
-music = {
-	name = "Come_on_spring"
-	file = "Come_on_spring.ogg"
-	volume = 0.65
-}
-
-music = {
-	name = "TSUNAMI"
-	file = "TSUNAMI.ogg"
-	volume = 0.65
-}
-
-
-
-
-
-
-

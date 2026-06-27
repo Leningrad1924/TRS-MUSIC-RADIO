@@ -68,14 +68,6 @@ music = {
 }
 
 music = {
-	song = "Pearl_of_the_Orient"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
 	song = "Your_appearance"
 	chance = {
 		modifier = {
@@ -404,7 +396,7 @@ music = {
 	}
 }
 music = {
-	song = "Work_Song"
+	song = "Friend"
 	chance = {
 		modifier = {
 			factor = 1

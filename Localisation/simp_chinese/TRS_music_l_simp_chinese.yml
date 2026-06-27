@@ -1,5 +1,19 @@
 ﻿l_simp_chinese:
- TokyoFM_TITLE:0"东京FM"
+ Jiyu_Nihon_Hoso_TITLE:0"自由日本放送"
+ Listen_workers_of_the_World:0"听吧，万国的劳动者 - 中央合唱团(Kike Bankoku no Rōdō-sha - Chūō Gasshōdan)"
+ The_Red_Flag:0"赤旗之歌 - 中央合唱团(Akahata no Uta - Chūō Gasshōdan)"
+ Internationale_PRJ:0"国际歌 - 中央合唱团(Intānashonaru - Chūō Gasshōdan)"
+ Come_on:0"加油吧 - 中央合唱团(Ganbare - Chūō Gasshōdan)"
+ The_Red_Army_is_the_most_powerful_PRJ:0"当钟声响起 - 中央合唱团(Kane ga naru toki - Chūō Gasshōdan)"
+ Grasslands_grasslands_PRJ:0"草原啊草原 - 中央合唱团(Sōgen yo, sōgen yo - Chūō Gasshōdan)"
+
+ Whirlwinds_of_Danger_PRJ:0"华沙工人进行曲 - 中央合唱团(Warushawa Rōdōsha Kōshinkyoku - Chūō Gasshōdan)"
+ Po_dolinam_i_po_vzgoriam_PRJ:0"跨过高山，越过平原 - 中央合唱团(Kōzan o koe, heigen o koe - Chūō Gasshōdan)"
+
+ Socialism_is_great:0"社会主义好 - 日本人民军军乐团(Shakaishugi wa yoi - Nihon Jinmin-gun Gungakudan)"
+ The_military_song_of_the_JPA:0"日本人民军军歌 - 日本人民军军乐团(Nihon Jinmin-gun Gungunka - Nihon Jinmin-gun Gungakudan)"
+ The_peoples_army_is_loyal_to_the_Party:0"人民军队忠于党 - 日本人民军军乐团(Jinmin guntai wa tō ni chūsu - Nihon Jinmin-gun Gungakudan)"
+
  Crescent_moon_sunset:0"新月余辉 - 鱼韵乐队(Crescent Moon Sunset - Sakanaction)"
  Shiranami_top_water:0"白浪跃水 - 鱼韵乐队(Shiranami Top Water - Sakanaction)"
  Word:0"语言 - 鱼韵乐队(Word - Sakanaction)"
@@ -28,22 +42,8 @@
  Waiting_for_the_sunset:0"等待夕阳 - 因幡晃(Yūbae o Machinagara - Inaba Akira)"
  Recalling_the_Past:0"追忆昔日 - 加藤登纪子(Recalling The Past - Tokiko Kato)"
  The_Wind_Corridor:0"风之甬道 - 久石让(The Wind Corridor - Yoshiyuki Miyazaki)"
- BEGINNINGS:0"BEGINNINGS - 松隆子(BEGINNINGS - Takako Matsu)"
- Come_on_spring:0"来吧，春天 - 松任谷由実(Haru yo, Koi - Matsutoya Yumi)"
- TSUNAMI:0"TSUNAMI - 南方之星(TSUNAMI - Southern All Stars)"
 
- CPHK_TITLE:0"中央人民广播协会"
- Listen_workers_of_the_World:0"听吧，万国的劳动者 - 中央合唱团(Kike Bankoku no Rōdō-sha - Central Chorus Group)"
- Internationale_PRJ:0"国际歌 - 中央合唱团(The Internationale - Central Chorus Group)"
- The_Red_Army_is_the_most_powerful_PRJ:0"当钟声响起 - 日本人民军合唱团(When The Bell Rings - The Japanese People's Army Chorus)"
- The_Red_Flag:0"赤旗之歌 - 中央合唱团(Red flag song - Central Chorus Group)"
- Come_on:0"加油吧 - 中央合唱团(Come On - Central Chorus Group)"
- Grasslands_grasslands:0"草原啊草原 - 日本人民军合唱团(Grasslands,Grasslands - The Japanese People's Army Chorus)"
- Socialism_is_great:0"社会主义好 - 日本人民军军乐团(Socialism Is Great - The Japanese People's Army Chorus)"
- The_military_song_of_the_JPA:0"日本人民军军歌 - 日本人民军军乐团(The Military Song Of The JPA - The Japanese People's Army Band)"
- The_peoples_army_is_loyal_to_the_Party:0"人民军队忠于党 - 日本人民军军乐团(The People's Army Is Loyal To The Party - The Japanese People's Army Band)"
  BCC_TITLE:0"中国广播公司 - 中广音乐网"
-
  Big_stone_hit_the_chest:0"大石碎胸口 - 万能青年旅店(Big Stone Hit The Chest - Omnipotent Youth Society)"
  Qinhuangdao:0"秦皇岛 - 万能青年旅店(Qinhuangdao - Omnipotent Youth Society)"
  One_hundred_thousand_hippies:0"十万嬉皮 - 万能青年旅店( One Hundred Thousand Hippies - Omnipotent Youth Society)"
@@ -93,15 +93,18 @@
  Ai_Piah_Cia_Eh_Yia:0"爱拼才会赢 - 陈百潭(Ai Piah Cia Eh Yia - Chen Baitan)"
  Dance_of_youth:0"青春舞曲 - 王洛宾(Dance of youth - Wang Luobin)"
  The_opinion_of_another_worker:0"另一个工人的观点 - 黄金刚"(The opinion of another worker - Huang Jigang)"
- Work_Song:0"下班歌 - 左翼联盟(Work Song - The Left Party)"
+ Friend:0"朋友 - 谭咏麟(Friend - Tan Yonlin)"
+
 
  VOHBN_TITLE:0"汉声广播电台"
  When_that_day_comes:0"当那一天来临 - 中华民国国军合唱团(When That Day Comes - The Chorus of the R.O.C Military Forces)"
  The_national_anthem_of_ROC:0"中华民国国歌 - 中华民国国军合唱团(The National Anthem Of R.O.C - The Chorus of the R.O.C Military Forces)"
+ Taiwan_March:0"台湾进行曲 - 罗大佑(Taiwan March - Luo Dayou)"
  Sing_of_the_Motherland:0"歌唱祖国 - 国家交响乐团(Sing Of The Motherland - National Symphony Orchestra)"
  The_motherland_will_never_forget:0"祖国不会忘记 - 黄鹭(The Motherland Will Never Forget - Huang Lu)"
  Graduation_Song:0"毕业歌 - 上海乐团合唱团(Graduation Song - Shanghai Orchestra Chorus)"
  Country:0"国家 - 刘家昌(Country - Liu Jiacang)"
  Ode_to_the_Republic_of_China:0"中华民国颂 - 刘家昌(Ode to the Republic of China - Liu Jiacang)"
  No_One_Shall_Violate_Her:0"谁都不能欺侮它 - 刘文正(No One Shall Violate Her - Liu Wen-cheng)"
+
  

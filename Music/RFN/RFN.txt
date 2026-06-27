@@ -1,40 +1,8 @@
 
-music_station = "CPHK"
+music_station = "RFN"
 
 music = {
-	song = "Internationale_PRJ"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "Listen_workers_of_the_World"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "The_Red_Flag"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "Come_on"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "The_Red_Army_is_the_most_powerful_PRJ"
+	song = "When_that_day_comes"
 	chance = {
 		modifier = {
 			factor = 1
@@ -43,25 +11,7 @@ music = {
 }
 
 music = {
-	song = "Grasslands_grasslands"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
-music = {
-	song = "Socialism_is_great"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
-music = {
-	song = "The_military_song_of_the_JPA"
+	song = "The_national_anthem_of_ROC"
 	chance = {
 		modifier = {
 			factor = 1
@@ -69,27 +19,50 @@ music = {
 	}
 }
 music = {
-	song = "The_peoples_army_is_loyal_to_the_Party"
+	song = "Sing_of_the_Motherland"
 	chance = {
 		modifier = {
 			factor = 1
 		}		
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+music = {
+	song = "The_motherland_will_never_forget"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Graduation_Song"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Country"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Ode_to_the_Republic_of_China"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "No_One_Shall_Violate_Her"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}

@@ -1,6 +1,6 @@
 guiTypes = {
 	containerWindowType = {
-		name = "CPHK_faceplate"
+		name = "Jiyu_Nihon_Hoso_faceplate"
 		position = { x =0 y=0 }
 		size = { width = 590 height = 46 }
 
@@ -111,13 +111,13 @@ guiTypes = {
 	}
 
 	containerWindowType={
-		name = "CPHK_stations_entry"
+		name = "Jiyu_Nihon_Hoso_stations_entry"
 		size = { width = 162 height = 130 }
 		
 		checkBoxType = {
 			name = "select_station_button"
 			position = { x = 0 y = 0 }
-			quadTextureSprite = "CPHK_album_art"
+			quadTextureSprite = "Jiyu_Nihon_Hoso_album_art"
 			clicksound = decisions_ui_button
 		}
 	}

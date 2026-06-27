@@ -1,5 +1,94 @@
 
-music_station = "TokyoFM"
+music_station = "Jiyu_Nihon_Hoso"
+
+music = {
+	song = "Listen_workers_of_the_World"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The_Red_Flag"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Internationale_PRJ"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Come_on"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The_Red_Army_is_the_most_powerful_PRJ"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Grasslands_grasslands_PRJ"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Po_dolinam_i_po_vzgoriam_PRJ"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Whirlwinds_of_Danger_PRJ"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Socialism_is_great"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The_military_song_of_the_JPA"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The_peoples_army_is_loyal_to_the_Party"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
 
 music = {
 	song = "Crescent_moon_sunset"
@@ -247,30 +336,4 @@ music = {
 	}
 }
 
-music = {
-	song = "BEGINNINGS"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
-music = {
-	song = "Come_on_spring"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
-music = {
-	song = "TSUNAMI"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
 
