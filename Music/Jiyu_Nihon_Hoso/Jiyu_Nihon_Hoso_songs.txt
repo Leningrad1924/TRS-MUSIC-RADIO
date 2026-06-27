@@ -109,6 +109,15 @@ music = {
 }
 
 music = {
+	song = "GO_TO_THE_FUTURE"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
 	song = "Word"
 	chance = {
 		modifier = {
@@ -242,6 +251,15 @@ music = {
 }
 
 music = {
+	song = "Rookie"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
 	song = "Merry_Christmas_Mr_Lawrence"
 	chance = {
 		modifier = {
@@ -328,6 +346,15 @@ music = {
 }
 
 music = {
+	song = "A_city_with_a_view_of_the_sea"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
 	song = "Recalling_the_Past"
 	chance = {
 		modifier = {
@@ -336,4 +363,38 @@ music = {
 	}
 }
 
+music = {
+	song = "Gardener_KING"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
 
+music = {
+	song = "Tere_to"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "The_girl_that_I_care_about"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+
+music = {
+	song = "Jody"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}

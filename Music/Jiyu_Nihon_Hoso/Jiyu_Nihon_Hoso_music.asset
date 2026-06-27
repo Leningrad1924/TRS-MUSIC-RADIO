@@ -55,8 +55,6 @@ music = {
 	file = "The_peoples_army_is_loyal_to_the_Party.ogg"
 	volume = 1
 }
-
-
 music = {
 	name = "Crescent_moon_sunset"
 	file = "Crescent_moon_sunset.ogg"
@@ -64,6 +62,11 @@ music = {
 }
 music = {
 	name = "Shiranami_top_water"
+	file = "Shiranami_top_water.ogg"
+	volume = 0.65
+}
+music = {
+	name = "GO_TO_THE_FUTURE"
 	file = "Shiranami_top_water.ogg"
 	volume = 0.65
 }
@@ -144,6 +147,12 @@ music = {
 }
 
 music = {
+	name = "Rookie"
+	file = "Treamline.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "Merry_Christmas_Mr_Lawrence"
 	file = "Merry_Christmas_Mr_Lawrence.ogg"
 	volume = 0.65
@@ -204,3 +213,31 @@ music = {
 	file = "The_Wind_Corridor.ogg"
 	volume = 0.65
 }
+
+music = {
+	name = "A_city_with_a_view_of_the_sea"
+	file = "A_city_with_a_view_of_the_sea.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Gardener_KING"
+	file = "Gardener_KING.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tere_to"
+	file = "Tere_to.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The_girl_that_I_care_about"
+	file = "The_girl_that_I_care_about.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jody"
+	file = "Jody.ogg"
+	volume = 0.65
+}
+

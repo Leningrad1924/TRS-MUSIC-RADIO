@@ -6,16 +6,14 @@
  Come_on:0"加油吧 - 中央合唱团(Ganbare - Chūō Gasshōdan)"
  The_Red_Army_is_the_most_powerful_PRJ:0"当钟声响起 - 中央合唱团(Kane ga naru toki - Chūō Gasshōdan)"
  Grasslands_grasslands_PRJ:0"草原啊草原 - 中央合唱团(Sōgen yo, sōgen yo - Chūō Gasshōdan)"
-
  Whirlwinds_of_Danger_PRJ:0"华沙工人进行曲 - 中央合唱团(Warushawa Rōdōsha Kōshinkyoku - Chūō Gasshōdan)"
  Po_dolinam_i_po_vzgoriam_PRJ:0"跨过高山，越过平原 - 中央合唱团(Kōzan o koe, heigen o koe - Chūō Gasshōdan)"
-
  Socialism_is_great:0"社会主义好 - 日本人民军军乐团(Shakaishugi wa yoi - Nihon Jinmin-gun Gungakudan)"
  The_military_song_of_the_JPA:0"日本人民军军歌 - 日本人民军军乐团(Nihon Jinmin-gun Gungunka - Nihon Jinmin-gun Gungakudan)"
  The_peoples_army_is_loyal_to_the_Party:0"人民军队忠于党 - 日本人民军军乐团(Jinmin guntai wa tō ni chūsu - Nihon Jinmin-gun Gungakudan)"
-
  Crescent_moon_sunset:0"新月余辉 - 鱼韵乐队(Crescent Moon Sunset - Sakanaction)"
  Shiranami_top_water:0"白浪跃水 - 鱼韵乐队(Shiranami Top Water - Sakanaction)"
+ GO_TO_THE_FUTURE:0"前往未来 - 鱼韵乐队(GO TO THE FUTURE - Sakanaction)"
  Word:0"语言 - 鱼韵乐队(Word - Sakanaction)"
  Light_Dance:0"翩跹 - 鱼韵乐队(Light Dance - Sakanaction)"
  Walk_Around:0"四处游走 - 鱼韵乐队(Walk Around - Sakanaction)"
@@ -31,6 +29,7 @@
  Slow_motion:0"慢动作 - 鱼韵乐队(Surō Mōshon - Sakanaction)"
  The_Street_of_Masks:0"假面之街 - 鱼韵乐队(Kamen no Machi - Sakanaction)"
  Treamline:0"流线 - 鱼韵乐队(Ryūsen - Sakanaction)"
+ Rookie:0"新人 - 鱼韵乐队(Rookie - Sakanaction)"
  Merry_Christmas_Mr_Lawrence:0"圣诞快乐，劳伦斯先生 - 坂本龙一(Merry Christmas Mr. Lawrence - Sakamoto Ryūichi)"
  Blu:0"Blu - 坂本龙一(Blu - Sakamoto Ryūichi)"
  opus:0"opus - 坂本龙一(opus - Sakamoto Ryūichi)"
@@ -42,6 +41,11 @@
  Waiting_for_the_sunset:0"等待夕阳 - 因幡晃(Yūbae o Machinagara - Inaba Akira)"
  Recalling_the_Past:0"追忆昔日 - 加藤登纪子(Recalling The Past - Tokiko Kato)"
  The_Wind_Corridor:0"风之甬道 - 久石让(The Wind Corridor - Yoshiyuki Miyazaki)"
+ A_city_with_a_view_of_the_sea:0"能看见海的城市 - 久石让(Umi ga mieru machi - Yoshiyuki Miyazaki)"
+ Gardener_KING:0"庭师KING - 平泽进(Niwashin KING - Susumu Hirasawa)"
+ Tere_to:0"东京电视台 - 相对性理论(Tere-tō - Sōtaisei riron)"
+ The_girl_that_I_care_about:0"我在意的那个女孩 - 相对性理论(Ki ni natte iru ano ko - Sōtaisei riron)"
+ Jody:0"Jody - 山下达郎(Jody - Tatsuro Yamashita)"
 
  BCC_TITLE:0"中国广播公司 - 中广音乐网"
  Big_stone_hit_the_chest:0"大石碎胸口 - 万能青年旅店(Big Stone Hit The Chest - Omnipotent Youth Society)"
