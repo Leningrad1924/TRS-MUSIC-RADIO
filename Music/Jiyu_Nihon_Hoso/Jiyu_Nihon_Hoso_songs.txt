@@ -328,7 +328,7 @@ music = {
 }
 
 music = {
-	song = "Waiting_for_the sunset"
+	song = "Waiting_for_the_sunset"
 	chance = {
 		modifier = {
 			factor = 1

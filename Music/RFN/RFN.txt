@@ -2,7 +2,7 @@
 music_station = "RFN"
 
 music = {
-	song = "When_that_day_comes"
+	song = "Highway_to_Hell"
 	chance = {
 		modifier = {
 			factor = 1
@@ -11,7 +11,7 @@ music = {
 }
 
 music = {
-	song = "The_national_anthem_of_ROC"
+	song = "Dirty_Deeds_Done_Dirt_Cheap"
 	chance = {
 		modifier = {
 			factor = 1
@@ -19,7 +19,7 @@ music = {
 	}
 }
 music = {
-	song = "Sing_of_the_Motherland"
+	song = "Back_in_Black"
 	chance = {
 		modifier = {
 			factor = 1
@@ -27,7 +27,7 @@ music = {
 	}
 }
 music = {
-	song = "The_motherland_will_never_forget"
+	song = "TNT"
 	chance = {
 		modifier = {
 			factor = 1
@@ -35,7 +35,7 @@ music = {
 	}
 }
 music = {
-	song = "Graduation_Song"
+	song = "Shoot_to_Thrill"
 	chance = {
 		modifier = {
 			factor = 1
@@ -43,7 +43,7 @@ music = {
 	}
 }
 music = {
-	song = "Country"
+	song = "Somebody_That_I_Used_To_Know"
 	chance = {
 		modifier = {
 			factor = 1
@@ -51,7 +51,7 @@ music = {
 	}
 }
 music = {
-	song = "Ode_to_the_Republic_of_China"
+	song = "Stayin_Alive"
 	chance = {
 		modifier = {
 			factor = 1
@@ -59,10 +59,187 @@ music = {
 	}
 }
 music = {
-	song = "No_One_Shall_Violate_Her"
+	song = "Great_Southern_Land"
 	chance = {
 		modifier = {
 			factor = 1
 		}		
 	}
 }
+music = {
+	song = "Down_Under"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The_Wild_Colonial_Boy"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Power"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The_Wonder_of_You"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Cant_Help_Falling_in_Love"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Hound_Dog"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "So_Glad_Youre_Mine "
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The_World_We_Knew_Over_And_Over"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Thats_Life"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Fly_Me_to_the_Moon"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Faithful"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "YMCA"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Vogue"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Battle_Cry_Of_Freedom"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Daydream_By_Design"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Midnightride"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "All_I_Want_for_Christmas"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "One_bad_man"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Save_me_some_sugar"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Rebel_Ship"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Tom_Sawyer"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Strobe"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+

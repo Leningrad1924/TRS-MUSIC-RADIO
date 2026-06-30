@@ -23,7 +23,7 @@ music = {
 }
 music = {
 	name = "Love_Song_1980"
-	file = "Love_Song_1990.ogg"
+	file = "Love_Song_1980.ogg"
 	volume = 1
 }
 music = {

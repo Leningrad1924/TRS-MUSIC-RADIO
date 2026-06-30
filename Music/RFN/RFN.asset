@@ -1,43 +1,154 @@
 
-#VOHBN
+#RFN
 
 music = {
-	name = "When_that_day_comes"
-	file = "When_that_day_comes.ogg"
+	name = "Highway_to_Hell"
+	file = "Highway_to_Hell.ogg"
 	volume = 1
 }
 music = {
-	name = "The_national_anthem_of_ROC"
-	file = "The_national_anthem_of_ROC.ogg"
+	name = "Dirty_Deeds_Done_Dirt_Cheap"
+	file = "Dirty_Deeds_Done_Dirt_Cheap.ogg"
 	volume = 1
 }
 music = {
-	name = "Sing_of_the_Motherland"
-	file = "Sing_of_the_Motherland.ogg"
+	name = "Back_in_Black"
+	file = "Back_in_Black.ogg"
 	volume = 1
 }
 music = {
-	name = "The_motherland_will_never_forget"
-	file = "The_motherland_will_never_forget.ogg"
+	name = "TNT"
+	file = "TNT.ogg"
 	volume = 1
 }
 music = {
-	name = "Graduation_Song"
+	name = "Shoot_to_Thrill"
 	file = "Graduation_Song.ogg"
 	volume = 1
 }
 music = {
-	name = "Country"
-	file = "Country.ogg"
+	name = "Somebody_That_I_Used_To_Know"
+	file = "Somebody_That_I_Used_To_Know.ogg"
 	volume = 1
 }
 music = {
-	name = "Ode_to_the_Republic_of_China"
-	file = "Ode_to_the_Republic_of_China.ogg"
+	name = "Stayin_Alive"
+	file = "Stayin_Alive.ogg"
 	volume = 1
 }
 music = {
-	name = "No_One_Shall_Violate_Her"
-	file = "No_One_Shall_Violate_Her.ogg"
+	name = "Great_Southern_Land"
+	file = "Great_Southern_Land.ogg"
 	volume = 1
 }
+music = {
+	name = "Down_Under"
+	file = "Down_Under.ogg"
+	volume = 1
+}
+music = {
+	name = "The_Wild_Colonial_Boy"
+	file = "The_Wild_Colonial_Boy.ogg"
+	volume = 1
+}
+music = {
+	name = "Power"
+	file = "Power.ogg"
+	volume = 1
+}
+music = {
+	name = "The_Wonder_of_You"
+	file = "The_Wonder_of_You.ogg"
+	volume = 1
+}
+music = {
+	name = "Cant_Help_Falling_in_Love"
+	file = "Cant_Help_Falling_in_Love.ogg"
+	volume = 1
+}
+music = {
+	name = "Hound_Dog"
+	file = "Hound_Dog.ogg"
+	volume = 1
+}
+music = {
+	name = "So_Glad_Youre_Mine"
+	file = "So_Glad_Youre_Mine.ogg"
+	volume = 1
+}
+music = {
+	name = "The_World_We_Knew_Over_And_Over"
+	file = "The_World_We_Knew_Over_And_Over.ogg"
+	volume = 1
+}
+music = {
+	name = "Thats_Life"
+	file = "Thats_Life.ogg"
+	volume = 1
+}
+music = {
+	name = "Fly_Me_to_the_Moon"
+	file = "Fly_Me_to_the_Moon.ogg"
+	volume = 1
+}
+music = {
+	name = "Faithful"
+	file = "Faithful.ogg"
+	volume = 1
+}
+music = {
+	name = "YMCA"
+	file = "YMCA.ogg"
+	volume = 1
+}
+music = {
+	name = "Vogue"
+	file = "Vogue.ogg"
+	volume = 1
+}
+music = {
+	name = "Battle_Cry_Of_Freedom"
+	file = "Battle_Cry_Of_Freedom.ogg"
+	volume = 1
+}
+music = {
+	name = "Daydream_By_Design"
+	file = "Daydream_By_Design.ogg"
+	volume = 1
+}
+music = {
+	name = "Midnightride"
+	file = "Midnightride.ogg"
+	volume = 1
+}
+music = {
+	name = "All_I_Want_for_Christmas"
+	file = "All_I_Want_for_Christmas.ogg"
+	volume = 1
+}
+music = {
+	name = "One_bad_man"
+	file = "One_bad_man.ogg"
+	volume = 1
+}
+music = {
+	name = "Save_me_some_sugar"
+	file = "Save_me_some_sugar.ogg"
+	volume = 1
+}
+music = {
+	name = "Rebel_Ship"
+	file = "Rebel_Ship.ogg"
+	volume = 1
+}
+music = {
+	name = "Tom_Sawyer"
+	file = "Tom_Sawyer.ogg"
+	volume = 1
+}
+music = {
+	name = "Strobe"
+	file = "Strobe.ogg"
+	volume = 1
+}
+

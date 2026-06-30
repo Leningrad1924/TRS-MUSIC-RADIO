@@ -67,7 +67,7 @@ music = {
 }
 music = {
 	name = "GO_TO_THE_FUTURE"
-	file = "Shiranami_top_water.ogg"
+	file = "GO_TO_THE_FUTURE.ogg"
 	volume = 0.65
 }
 music = {
@@ -148,7 +148,7 @@ music = {
 
 music = {
 	name = "Rookie"
-	file = "Treamline.ogg"
+	file = "Rookie.ogg"
 	volume = 0.65
 }
 
@@ -197,8 +197,8 @@ music = {
 }
 
 music = {
-	name = "Waiting_for_the sunset"
-	file = "Waiting_for_the sunset.ogg"
+	name = "Waiting_for_the_sunset"
+	file = "Waiting_for_the_sunset.ogg"
 	volume = 0.65
 }
 
