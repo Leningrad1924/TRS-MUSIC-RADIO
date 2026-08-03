@@ -380,7 +380,7 @@ music = {
 	}
 }
 music = {
-	song = "Dance_of_youth"
+	song = "A_little_bit_of_heart"
 	chance = {
 		modifier = {
 			factor = 1
@@ -388,7 +388,7 @@ music = {
 	}
 }
 music = {
-	song = "The_opinion_of_another_worker"
+	song = "Find_Yourself"
 	chance = {
 		modifier = {
 			factor = 1

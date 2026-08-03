@@ -82,7 +82,7 @@ music = {
 	}
 }
 music = {
-	song = "The_peoples_army_is_loyal_to_the_Party"
+	song = "Bloom"
 	chance = {
 		modifier = {
 			factor = 1
@@ -392,6 +392,38 @@ music = {
 
 music = {
 	song = "Jody"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Riding_on_the_back_of_the_silver_dragon"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "TSUNAMI"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Kind_Devil"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Rondo_Revolution"
 	chance = {
 		modifier = {
 			factor = 1

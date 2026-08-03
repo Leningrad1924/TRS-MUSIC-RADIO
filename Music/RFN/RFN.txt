@@ -203,7 +203,7 @@ music = {
 	}
 }
 music = {
-	song = "One_bad_man"
+	song = "Save_me_some_sugar"
 	chance = {
 		modifier = {
 			factor = 1
@@ -211,7 +211,7 @@ music = {
 	}
 }
 music = {
-	song = "Save_me_some_sugar"
+	song = "Snake_Eater"
 	chance = {
 		modifier = {
 			factor = 1

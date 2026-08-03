@@ -4,248 +4,248 @@
 music = {
 	name = "Big_stone_hit_the_chest"
 	file = "Big_stone_hit_the_chest.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Qinhuangdao"
 	file = "Qinhuangdao.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "One_hundred_thousand_hippies"
 	file = "One_hundred_thousand_hippies.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Train"
 	file = "Train.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Love_Song_1980"
-	file = "Love_Song_1980.ogg"
-	volume = 1
+	file = "Love_Song_0.65980.ogg"
+	volume = 0.65
 }
 music = {
 	name = "Love_Song_1990"
-	file = "Love_Song_1990.ogg"
-	volume = 1
+	file = "Love_Song_0.65990.ogg"
+	volume = 0.65
 }
 music = {
 	name = "Love_Song_2000"
 	file = "Love_Song_2000.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Seaside_Flowers"
 	file = "Seaside_Flowers.ogg"
-	volume = 1
+	volume = 0.65
 }
 
 music = {
 	name = "Your_appearance"
 	file = "Your_appearance.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "The_Story_of_Time"
 	file = "The_Story_of_Time.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Zhi_Hu_Zhe_Ye"
 	file = "Zhi_Hu_Zhe_Ye.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Small_Town_Lu_Gang"
 	file = "Small_Town_Lu_Gang.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Rhythm_of_Youth_2000"
 	file = "Rhythm_of_Youth_2000.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "The_72_Variants_of_Phenomena"
 	file = "The_72_Variants_of_Phenomena.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Han_people"
 	file = "Han_people.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "The_Blue_Lotus"
 	file = "The_Blue_Lotus.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Flourishing_Life"
 	file = "Flourishing_Life.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "A_Brave_Heart"
 	file = "A_Brave_Heart.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Fly_higher"
 	file = "Fly_higher.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Vast_and_boundless_sky"
 	file = "Vast_and_boundless_sky.ogg"
-	volume = 1
+	volume = 0.65
 }
 
 music = {
 	name = "No_More_Hesitation"
 	file = "No_More_Hesitation.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Time_is_Silent"
 	file = "Time_is_Silent.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Great_Wall"
 	file = "Great_Wall.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Those_Days_Gone"
 	file = "Those_Days_Gone.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Gray_trajectory"
 	file = "Gray_trajectory.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Peasant"
 	file = "Peasant.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Earth"
 	file = "Earth.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Bun_gan_ba_loeng"
 	file = "Bun_gan_ba_loeng.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Cold_Rainy_Night"
 	file = "Cold_Rainy_Night.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Amani"
 	file = "Amani.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "I_believe"
 	file = "I_believe.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Erquan_Yingyue"
 	file = "Erquan_Yingyue.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Eastern_Red"
 	file = "Eastern_Red.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Songs_and_smiles"
 	file = "Songs_and_smiles.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Internationale_CHI"
 	file = "Internationale_CHI.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Paradise"
 	file = "Paradise.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "A_Dream_Return_to_the_Tang_Dynasty"
 	file = "A_Dream_Return_to_the_Tang_Dynasty.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Greater_China"
 	file = "Greater_China.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Rock_Music_on_the_New_Long_March_Road"
 	file = "Rock_Music_on_the_New_Long_March_Road.ogg"
-	volume = 1
+	volume = 0.65
 }
 
 music = {
 	name = "I_only_care_about_you"
 	file = "I_only_care_about_you.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Not_know_where_to_put_oneself"
 	file = "Not_know_where_to_put_oneself.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "The_best_buddy"
 	file = "The_best_buddy.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Sailor"
 	file = "Sailor.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Red_sun"
 	file = "Red_sun.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Twinkling_Stars"
 	file = "Twinkling_Stars.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Ai_Piah_Cia_Eh_Yia"
 	file = "Ai_Piah_Cia_Eh_Yia.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Dance_of_youth"
 	file = "Dance_of_youth.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
-	name = "The_opinion_of_another_worker"
-	file = "The_opinion_of_another_worker.ogg"
-	volume = 1
+	name = "A_little_bit_of_heart"
+	file = "A_little_bit_of_heart.ogg"
+	volume = 0.65
 }
 music = {
 	name = "Friend"
 	file = "Friend.ogg"
-	volume = 1
+	volume = 0.65
 }

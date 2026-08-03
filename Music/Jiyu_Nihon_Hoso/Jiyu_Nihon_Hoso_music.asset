@@ -3,57 +3,57 @@
 music = {
 	name = "Internationale_PRJ"
 	file = "Internationale_PRJ.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Listen_workers_of_the_World"
 	file = "Listen_workers_of_the_World.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "The_Red_Flag"
 	file = "The_Red_Flag.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Come_on"
 	file = "Come_on.ogg"
-	volume = 1.25
+	volume = 0.65
 }
 music = {
 	name = "The_Red_Army_is_the_most_powerful_PRJ"
 	file = "The_Red_Army_is_the_most_powerful_PRJ.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Grasslands_grasslands_PRJ"
 	file = "Grasslands_grasslands_PRJ.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Whirlwinds_of_Danger_PRJ"
 	file = "Whirlwinds_of_Danger_PRJ.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Po_dolinam_i_po_vzgoriam_PRJ"
 	file = "Po_dolinam_i_po_vzgoriam_PRJ.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "Socialism_is_great"
 	file = "Socialism_is_great.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
 	name = "The_military_song_of_the_JPA"
 	file = "The_military_song_of_the_JPA.ogg"
-	volume = 1
+	volume = 0.65
 }
 music = {
-	name = "The_peoples_army_is_loyal_to_the_Party"
-	file = "The_peoples_army_is_loyal_to_the_Party.ogg"
-	volume = 1
+	name = "Bloom"
+	file = "Bloom.ogg"
+	volume = 0.65
 }
 music = {
 	name = "Crescent_moon_sunset"
@@ -240,4 +240,23 @@ music = {
 	file = "Jody.ogg"
 	volume = 0.65
 }
-
+music = {
+	name = "Riding_on_the_back_of_the_silver_dragon"
+	file = "Riding_on_the_back_of_the_silver_dragon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "TSUNAMI"
+	file = "TSUNAMI.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kind_Devil"
+	file = "Kind_Devil.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rondo_Revolution"
+	file = "Rondo_Revolution.ogg"
+	volume = 0.65
+}
