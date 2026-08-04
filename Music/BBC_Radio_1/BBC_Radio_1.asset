@@ -1,0 +1,202 @@
+
+#BBC Radio 1
+music = {
+	name = "Never_gonna_give_you_up"
+	file = "Never_gonna_give_you_up.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Running_Up_That_Hill"
+	file = "Running_Up_That_Hill.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Let_It_Be"
+	file = "Let_It_Be.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hey_Judy"
+	file = "Hey_Judy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Here_Comes_The_Sun"
+	file = "Here_Comes_The_Sun.ogg"
+	volume = 0.65
+}
+music = {
+	name = "A_Day_In_The_Life"
+	file = "A_Day_In_The_Life.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Everybody_Wants_to_Rule_the World"
+	file = "Everybody_Wants_to_Rule_the World.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Money"
+	file = "Money.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The_Great_Gig_in_the_Sky"
+	file = "The_Great_Gig_in_the_Sky.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Paint_It_Black"
+	file = "Paint_It_Black.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jumpin_Jack_Flash"
+	file = "Jumpin_Jack_Flash.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Shes_A_Rainbow"
+	file = "Shes_A_Rainbow.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Supersonic_Rocket_Ship"
+	file = "Supersonic_Rocket_Ship.ogg"
+	volume = 0.65
+}
+music = {
+	name = "You_Really_Got_Me"
+	file = "You_Really_Got_Me.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lola"
+	file = "Lola.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Country_House"
+	file = "Country_House.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Parklife"
+	file = "Parklife.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Common_People"
+	file = "Common_People.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Heaven_or_Las_Vegas"
+	file = "Heaven_or_Las_Vegas.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The_Trooper"
+	file = "The_Trooper.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Painkiller"
+	file = "Painkiller.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mr_Blue_Sky"
+	file = "Mr_Blue_Sky.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Enjoy_The_Silence"
+	file = "Enjoy_The_Silence.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Are_You_Satisfied"
+	file = "Are_You_Satisfied.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I_Dont_Care_Anymore"
+	file = "I_Dont_Care_Anymore.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bohemian_Rhapsody"
+	file = "Bohemian_Rhapsody"
+	volume = 0.65
+}
+music = {
+	name = "We_Will_Rock_You"
+	file = "We_Will_Rock_You"
+	volume = 0.65
+}
+music = {
+	name = "Another_One_Bites_the_Dust"
+	file = "Another_One_Bites_the_Dust"
+	volume = 0.65
+}
+music = {
+	name = "We_Are_the_Champions"
+	file = "We_Are_the_Champions"
+	volume = 0.65
+}
+music = {
+	name = "Killer_Queen"
+	file = "Killer_Queen"
+	volume = 0.65
+}
+music = {
+	name = "Under_Pressure"
+	file = "Under_Pressure"
+	volume = 0.65
+}
+music = {
+	name = "Radio_Ga_Ga"
+	file = "Radio_Ga_Ga"
+	volume = 0.65
+}
+music = {
+	name = "The_Show_Must_Go_On"
+	file = "The_Show_Must_Go_On"
+	volume = 0.65
+}
+music = {
+	name = "Hammer_To_Fall"
+	file = "Hammer_To_Fall"
+	volume = 0.65
+}
+music = {
+	name = "These_Are_the_Days_of_Our_Lives"
+	file = "These_Are_the_Days_of_Our_Lives"
+	volume = 0.65
+}
+music = {
+	name = "I_Want_it_All"
+	file = "I_Want_it_All"
+	volume = 0.65
+}
+music = {
+	name = "Virtual_Insanity"
+	file = "Virtual_Insanity"
+	volume = 0.65
+}
+music = {
+	name = "This_Fffire"
+	file = "This_Fffire"
+	volume = 0.65
+}
+music = {
+	name = "Take_Me_Out"
+	file = "Take_Me_Out"
+	volume = 0.65
+}
+music = {
+	name = "Rockin_All_Over_The_World"
+	file = "Rockin_All_Over_The_World"
+	volume = 0.65
+}
