@@ -31,8 +31,8 @@ music = {
 	volume = 0.65
 }
 music = {
-	name = "Everybody_Wants_to_Rule_the World"
-	file = "Everybody_Wants_to_Rule_the World.ogg"
+	name = "Everybody_Wants_to_Rule_the_World"
+	file = "Everybody_Wants_to_Rule_the_World.ogg"
 	volume = 0.65
 }
 music = {
@@ -136,67 +136,77 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "Bohemian_Rhapsody"
+	file = "Bohemian_Rhapsody.ogg"
+	volume = 0.65
+}
+music = {
+	name = "We_Will_Rock_You"
+	file = "We_Will_Rock_You.ogg"
+	volume = 0.65
+}
+music = {
 	name = "Another_One_Bites_the_Dust"
-	file = "Another_One_Bites_the_Dust"
+	file = "Another_One_Bites_the_Dust.ogg"
 	volume = 0.65
 }
 music = {
 	name = "We_Are_the_Champions"
-	file = "We_Are_the_Champions"
+	file = "We_Are_the_Champions.ogg"
 	volume = 0.65
 }
 music = {
 	name = "Killer_Queen"
-	file = "Killer_Queen"
+	file = "Killer_Queen.ogg"
 	volume = 0.65
 }
 music = {
 	name = "Under_Pressure"
-	file = "Under_Pressure"
+	file = "Under_Pressure.ogg"
 	volume = 0.65
 }
 music = {
 	name = "Radio_Ga_Ga"
-	file = "Radio_Ga_Ga"
+	file = "Radio_Ga_Ga.ogg"
 	volume = 0.65
 }
 music = {
 	name = "The_Show_Must_Go_On"
-	file = "The_Show_Must_Go_On"
+	file = "The_Show_Must_Go_On.ogg"
 	volume = 0.65
 }
 music = {
 	name = "Hammer_To_Fall"
-	file = "Hammer_To_Fall"
+	file = "Hammer_To_Fall.ogg"
 	volume = 0.65
 }
 music = {
 	name = "These_Are_the_Days_of_Our_Lives"
-	file = "These_Are_the_Days_of_Our_Lives"
+	file = "These_Are_the_Days_of_Our_Lives.ogg"
 	volume = 0.65
 }
 music = {
 	name = "I_Want_it_All"
-	file = "I_Want_it_All"
+	file = "I_Want_it_All.ogg"
 	volume = 0.65
 }
 music = {
 	name = "Virtual_Insanity"
-	file = "Virtual_Insanity"
+	file = "Virtual_Insanity.ogg"
 	volume = 0.65
 }
 music = {
 	name = "This_Fffire"
-	file = "This_Fffire"
+	file = "This_Fffire.ogg"
 	volume = 0.65
 }
 music = {
 	name = "Take_Me_Out"
-	file = "Take_Me_Out"
+	file = "Take_Me_Out.ogg"
 	volume = 0.65
 }
 music = {
 	name = "Rockin_All_Over_The_World"
-	file = "Rockin_All_Over_The_World"
+	file = "Rockin_All_Over_The_World.ogg"
 	volume = 0.65
 }

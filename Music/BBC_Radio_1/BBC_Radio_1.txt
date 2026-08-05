@@ -51,7 +51,7 @@ music = {
 	}
 }
 music = {
-	song = "Everybody_Wants_to_Rule_the World"
+	song = "Everybody_Wants_to_Rule_the_World"
 	chance = {
 		modifier = {
 			factor = 1
