@@ -8,7 +8,7 @@ music = {
 music = {
 	name = "Listen_workers_of_the_World"
 	file = "Listen_workers_of_the_World.ogg"
-	volume = 0.65
+	volume = 1
 }
 music = {
 	name = "The_Red_Flag"
