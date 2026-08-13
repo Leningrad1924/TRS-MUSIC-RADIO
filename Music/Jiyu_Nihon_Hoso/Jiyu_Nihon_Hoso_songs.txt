@@ -415,14 +415,6 @@ music = {
 	}
 }
 music = {
-	song = "Kind_Devil"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
 	song = "Rondo_Revolution"
 	chance = {
 		modifier = {
