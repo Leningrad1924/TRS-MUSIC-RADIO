@@ -17,6 +17,21 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "An_Adventure_in_the_Dark_Clouds_Market"
+	file = "An_Adventure_in_the_Dark_Clouds_Market.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Throughout_the_Drinkeries_of_This_Planet"
+	file = "Throughout_the_Drinkeries_of_This_Planet.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The_Less_Than_Omnipotent_Comedy"
+	file = "The_Less_Than_Omnipotent_Comedy.ogg"
+	volume = 0.65
+}
+music = {
 	name = "Train"
 	file = "Train.ogg"
 	volume = 0.65

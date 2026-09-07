@@ -26,6 +26,30 @@ music = {
 	}
 }
 music = {
+	song = "An_Adventure_in_the_Dark_Clouds_Market"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Throughout_the_Drinkeries_of_This_Planet"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "The_Less_Than_Omnipotent_Comedy"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Train"
 	chance = {
 		modifier = {
