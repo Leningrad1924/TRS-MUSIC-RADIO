@@ -99,7 +99,15 @@ music = {
 	}
 }
 music = {
-	song = "Supersonic_Rocket_Ship"
+	song = "Highway_Star"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Smoke_on_the_Water"
 	chance = {
 		modifier = {
 			factor = 1
@@ -108,14 +116,6 @@ music = {
 }
 music = {
 	song = "You_Really_Got_Me"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "Country_House"
 	chance = {
 		modifier = {
 			factor = 1

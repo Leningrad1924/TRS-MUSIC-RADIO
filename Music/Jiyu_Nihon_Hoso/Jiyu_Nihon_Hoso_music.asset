@@ -187,7 +187,7 @@ music = {
 music = {
 	name = "Flow_of_wealth"
 	file = "Flow_of_wealth.ogg"
-	volume = 0.65
+	volume = 1.3
 }
 
 music = {
@@ -199,7 +199,7 @@ music = {
 music = {
 	name = "Waiting_for_the_sunset"
 	file = "Waiting_for_the_sunset.ogg"
-	volume = 0.65
+	volume = 1.3
 }
 
 music = {
