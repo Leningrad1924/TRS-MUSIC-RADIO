@@ -1,95 +1,5 @@
 
 music_station = "Jiyu_Nihon_Hoso"
-
-music = {
-	song = "Listen_workers_of_the_World"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "The_Red_Flag"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "Internationale_PRJ"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "Come_on"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "The_Red_Army_is_the_most_powerful_PRJ"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "Grasslands_grasslands_PRJ"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "Po_dolinam_i_po_vzgoriam_PRJ"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "Whirlwinds_of_Danger_PRJ"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "Socialism_is_great"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "The_military_song_of_the_JPA"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-music = {
-	song = "Bloom"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
 music = {
 	song = "Crescent_moon_sunset"
 	chance = {
@@ -125,7 +35,14 @@ music = {
 		}		
 	}
 }
-
+music = {
+	song = "Rain_with_unpredictable_intensity"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
 music = {
 	song = "Light_Dance"
 	chance = {
@@ -134,7 +51,14 @@ music = {
 		}		
 	}
 }
-
+music = {
+	song = "Adventure"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
 music = {
 	song = "Walk_Around"
 	chance = {
@@ -162,6 +86,14 @@ music = {
 	}
 }
 music = {
+	song = "What_catches_the_eye_is_indigo_blue"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
 	song = "Identity"
 	chance = {
 		modifier = {
@@ -169,16 +101,22 @@ music = {
 		}		
 	}
 }
-
 music = {
-	song = "Monokuro_Tokyo"
+	song = "Rookie"
 	chance = {
 		modifier = {
 			factor = 1
 		}		
 	}
 }
-
+music = {
+	song = "Slow_motion"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
 music = {
 	song = "Because_I_listened_to_Bachs_melody_at_night"
 	chance = {
@@ -188,50 +126,13 @@ music = {
 	}
 }
 music = {
-	song = "Boku_to_hana"
+	song = "Monokuro_Tokyo"
 	chance = {
 		modifier = {
 			factor = 1
 		}		
 	}
 }
-
-music = {
-	song = "Yoi_no_odoriko"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
-music = {
-	song = "Adventure"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
-music = {
-	song = "What_catches_the_eye_is_indigo_blue"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
-music = {
-	song = "Slow_motion"
-	chance = {
-		modifier = {
-			factor = 1
-		}		
-	}
-}
-
 music = {
 	song = "The_Street_of_Masks"
 	chance = {
@@ -250,8 +151,9 @@ music = {
 	}
 }
 
+
 music = {
-	song = "Rookie"
+	song = "Boku_to_hana"
 	chance = {
 		modifier = {
 			factor = 1
@@ -259,6 +161,54 @@ music = {
 	}
 }
 
+music = {
+	song = "Yoi_no_odoriko"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "This_flower_called_Yourself"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Re_Re"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Turn_over_the_rock_and_the_morning_light_falls_upon_you"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Solanine"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
+music = {
+	song = "Well_see_you_tomorrow"
+	chance = {
+		modifier = {
+			factor = 1
+		}		
+	}
+}
 music = {
 	song = "Merry_Christmas_Mr_Lawrence"
 	chance = {

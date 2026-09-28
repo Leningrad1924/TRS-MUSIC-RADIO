@@ -1,0 +1,168 @@
+	spriteTypes = {
+	
+		#Radio Rossii
+		
+		spriteType = {
+			name = "GFX_Blood_type"
+			texturefile = "gfx/album_covers/Blood_type.png"
+			legacy_lazy_load = no
+		}
+
+		#Jiyu Nihon Hoso
+
+		spriteType = {
+			name = "GFX_GO_TO_THE_FUTURE"
+			texturefile = "gfx/album_covers/GO_TO_THE_FUTURE.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_NIGHT_FISHING"
+			texturefile = "gfx/album_covers/NIGHT_FISHING.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_Shinshiro"
+			texturefile = "gfx/album_covers/Shinshiro.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_Walk_Around"
+			texturefile = "gfx/album_covers/Walk_Around.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_kikUUiki"
+			texturefile = "gfx/album_covers/kikUUiki.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_Identity"
+			texturefile = "gfx/album_covers/Identity.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_Rookie"
+			texturefile = "gfx/album_covers/Rookie.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_Because_I_listened_to_Bachs_melody_at_night"
+			texturefile = "gfx/album_covers/Because_I_listened_to_Bachs_melody_at_night.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_DocumentaLy"
+			texturefile = "gfx/album_covers/DocumentaLy.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_Boku_to_hana"
+			texturefile = "gfx/album_covers/Boku_to_hana.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_Yoi_no_odoriko"
+			texturefile = "gfx/album_covers/Yoi_no_odoriko.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_This_flower_called_Yourself"
+			texturefile = "gfx/album_covers/This_flower_called_Yourself.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_Sol_fa"
+			texturefile = "gfx/album_covers/Sol_fa.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_Turn_over_the_rock_and_the_morning_light_falls_upon_you"
+			texturefile = "gfx/album_covers/Turn_over_the_rock_and_the_morning_light_falls_upon_you.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_Solanine"
+			texturefile = "gfx/album_covers/Solanine.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_Landmark"
+			texturefile = "gfx/album_covers/Landmark.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_联合国"
+			texturefile = "gfx/album_covers/联合国.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_联合国"
+			texturefile = "gfx/album_covers/联合国.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_联合国"
+			texturefile = "gfx/album_covers/联合国.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_联合国"
+			texturefile = "gfx/album_covers/联合国.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_联合国"
+			texturefile = "gfx/album_covers/联合国.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_联合国"
+			texturefile = "gfx/album_covers/联合国.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_联合国"
+			texturefile = "gfx/album_covers/联合国.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_联合国"
+			texturefile = "gfx/album_covers/联合国.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_联合国"
+			texturefile = "gfx/album_covers/联合国.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_联合国"
+			texturefile = "gfx/album_covers/联合国.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_联合国"
+			texturefile = "gfx/album_covers/联合国.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_联合国"
+			texturefile = "gfx/album_covers/联合国.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_联合国"
+			texturefile = "gfx/album_covers/联合国.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_联合国"
+			texturefile = "gfx/album_covers/联合国.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_联合国"
+			texturefile = "gfx/album_covers/联合国.png"
+			legacy_lazy_load = no
+		}
+	}
